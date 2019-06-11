@@ -1,0 +1,34 @@
+.title, #title {
+    color:orange;
+    font-size: 30px;
+
+}
+.retry{
+    margin-top: 10%;
+}
+
+.input{
+    float: left;
+    width: 48%;
+}
+
+.count{
+    float: right;
+    width: 48%;
+}
+
+.content{
+    color:orange;
+    width: 100%;
+    height: 100%;
+    /* To see the outline of the form */
+    padding: 0% 10% 10%;
+    font-size: 30px;
+    border: 0px 30px 30px;
+}
+
+footer{
+    height: 50%;
+    background-color: GhostWhite;
+    text-align: center;
+}
